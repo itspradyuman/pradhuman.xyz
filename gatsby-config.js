@@ -73,7 +73,7 @@ module.exports = {
         // https://css-tricks.com/meta-theme-color-and-trickery/
         // theme_color: `#6B46C1`,
         display: `standalone`,
-        icon: 'edited/edited-favicon.png',
+        icon: 'static/edited-favicon.png',
       },
     },
     {
