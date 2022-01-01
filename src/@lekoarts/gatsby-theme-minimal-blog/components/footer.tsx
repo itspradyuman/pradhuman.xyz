@@ -21,16 +21,10 @@ const Footer = () => {
       }}
     >
       <div>
-        &copy; {new Date().getFullYear()} by {siteTitle}. My Virtual Property.
+        &copy; {new Date().getFullYear()} , Hope you had a lovely time.
       </div>
       <div>
-        <Link
-          aria-label="Link to the theme's GitHub repository"
-          sx={{ ml: [0, 0, 3] }}
-          href="https://github.com/CodyWMitchell/my-site"
-        >
-            View the Source Code on GitHub
-        </Link>
+        Made by Pradhuman out of Boredom.
       </div>
     </footer>
   )
