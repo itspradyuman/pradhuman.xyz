@@ -17,7 +17,7 @@
   <a href="https://www.lekoarts.de?utm_source=minimal-blog&utm_medium=Starter">
     <img alt="Website" src="https://img.shields.io/badge/-website-blue">
   </a>
-  <a href="https://twitter.com/intent/follow?screen_name=lekoarts_de">
+  <a href="https://twitter.com/intent/follow?screen_name=prdhmn">
     <img src="https://img.shields.io/twitter/follow/lekoarts_de.svg?label=Follow%20@lekoarts_de" alt="Follow @lekoarts_de" />
   </a>
 </p>
