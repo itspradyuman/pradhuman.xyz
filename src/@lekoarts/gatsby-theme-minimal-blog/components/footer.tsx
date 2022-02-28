@@ -21,7 +21,7 @@ const Footer = () => {
       }}
     >
       <div>
-        &copy; {new Date().getFullYear()} , Hope you had a lovely time.
+        &copy; {new Date().getFullYear()} , 🙏🤑👌
       </div>
       <div>
         Made by Pradhuman out of Boredom.
