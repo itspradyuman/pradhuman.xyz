@@ -7,7 +7,7 @@ module.exports = {
     // You can overwrite values here that are used for the SEO component
     // You can also add new values here to query them like usual
     // See all options: https://github.com/LekoArts/gatsby-themes/blob/main/themes/gatsby-theme-minimal-blog/gatsby-config.js
-    siteTitle: `Human's Humble Adobe`,
+    siteTitle: `Prad On Web`,
     siteTitleAlt: `Pradhuman`,
     siteHeadline: `I made this out of Boredom on New Year`,
     siteUrl: `https://pradhuman.xyz`,
@@ -31,6 +31,8 @@ module.exports = {
         },
       },
 
+
+
       resolve: `@lekoarts/gatsby-theme-minimal-blog`,
       // See the theme's README for all available options
       options: {
@@ -47,11 +49,11 @@ module.exports = {
         externalLinks: [
           {
             name: `Twitter`,
-            url: `https://twitter.com/pradhum4n`,
+            url: `https://twitter.com/prdhmn`,
           },
           {
             name: `Instagram`,
-            url: `https://instagram.com/pradhum4n`,
+            url: `https://instagram.com/prdhmn`,
           },
         ],
       },
