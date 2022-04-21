@@ -13,7 +13,7 @@
  // Size presets, defined by Spotify
  const sizePresets = {
    large: {
-     width: 975,
+     width: 350,
      height: 380,
    },
    compact: {
