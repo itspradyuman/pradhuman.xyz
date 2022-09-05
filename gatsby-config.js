@@ -49,11 +49,11 @@ module.exports = {
         externalLinks: [
           {
             name: `Twitter`,
-            url: `https://twitter.com/prdhmn`,
+            url: `https://twitter.com/pradhumvn`,
           },
           {
             name: `Instagram`,
-            url: `https://instagram.com/prdhmn`,
+            url: `https://instagram.com/pradhumvn`,
           },
         ],
       },
